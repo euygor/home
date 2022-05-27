@@ -77,6 +77,8 @@ export const Category = styled.h5`
 `;
 
 export const Contacts = styled.div`
+  margin-bottom: 20px;
+  
   img {
     width: 30px;
     height: 30px;
@@ -95,7 +97,7 @@ export const CV = styled.div`
     font-weight: 600;
     font-size: 14px;
     color: rgb(43, 43, 43);
-    padding-top: 20px;
+    margin-top: 20px;
     cursor: pointer;
 
     &:hover {

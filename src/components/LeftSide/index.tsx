@@ -43,7 +43,7 @@ export const LeftSide = () => {
                         </a>
                     </C.Contacts>
                     <C.CV>
-                        <a href="https://download1488.mediafire.com/n5q77v06e0kg/a2acg1wjh97gxg7/Curr%C3%ADculo+Ygor+Oliveira.pdf" download={true} rel="noreferrer noopener">Download CV</a>
+                        <a href="https://www.mediafire.com/file/a2acg1wjh97gxg7/Curr%25C3%25ADculo_Ygor_Oliveira.pdf" download={true} rel="noreferrer noopener">Download CV</a>
                     </C.CV>
                 </C.Card>
                 <hr />
