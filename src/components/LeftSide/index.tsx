@@ -43,7 +43,7 @@ export const LeftSide = () => {
                         </a>
                     </C.Contacts>
                     <C.CV>
-                        <a href="https://www.mediafire.com/file/a2acg1wjh97gxg7/Curr%25C3%25ADculo_Ygor_Oliveira.pdf" download={true} rel="noreferrer noopener">Download CV</a>
+                        <a href="https://www.mediafire.com/file/e90mmmrhlb1kptq/Curr%25C3%25ADculo_Ygor_Oliveira.pdf" download={true} rel="noreferrer noopener">Download CV</a>
                     </C.CV>
                 </C.Card>
                 <hr />
@@ -66,6 +66,10 @@ export const LeftSide = () => {
                         <span>100%</span>
                     </C.Techs>
                     <C.Techs>
+                        <p>Vue</p>
+                        <span>100%</span>
+                    </C.Techs>
+                    <C.Techs>
                         <p>React</p>
                         <span>100%</span>
                     </C.Techs>
@@ -83,6 +87,14 @@ export const LeftSide = () => {
                     </C.Techs>
                     <C.Techs>
                         <p>MySQL</p>
+                        <span>100%</span>
+                    </C.Techs>
+                    <C.Techs>
+                        <p>Python</p>
+                        <span>100%</span>
+                    </C.Techs>
+                    <C.Techs>
+                        <p>Java</p>
                         <span>100%</span>
                     </C.Techs>
                     <C.Techs>
